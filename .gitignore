@@ -1,0 +1,90 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Test files
+test_presentation.pptx
+test_*.pptx
+*_test.pptx
+create_*_presentation.py
+diagnose_*.py
+test_installation.py
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# API keys and secrets
+*.key
+*.pem
+secrets/
+
+# Diagnostic files
+pipeline_diagnostic.json
+diagnose_pipeline.py
+
+# Demo files
+demo_*.md
+demo_*.py
+
+# Large binary files
+*.pptx
+*.ppt
+*.pdf
+*.zip
+*.tar.gz
+*.rar
+
+# Development files
+setup.py 
