@@ -2,6 +2,15 @@
 
 A robust Python command-line tool that analyzes multi-slide PowerPoint decks (`.pptx` files) and automatically detects cross-slide factual or logical inconsistencies.
 
+
+
+https://github.com/user-attachments/assets/68dcc86f-4757-4d18-800b-df10c971c7df
+
+
+
+
+
+
 ## Features
 
 - **Comprehensive Text Extraction**: Extracts text from all slide elements using `python-pptx`
@@ -17,7 +26,7 @@ A robust Python command-line tool that analyzes multi-slide PowerPoint decks (`.
 
 1. **Clone this repository**:
    ```bash
-   git clone <repository-url>
+   git clone (https://github.com/Apocalypse96/SlideSage.git)
    cd SlideSage
    ```
 
