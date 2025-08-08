@@ -209,24 +209,6 @@ The tool implements robust error handling:
 - Integration with other LLM providers
 - Real-time collaboration features
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests for new functionality
-5. Submit a pull request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Support
-
-For issues and questions:
-1. Check the troubleshooting section in this README
-2. Review existing GitHub issues
-3. Create a new issue with detailed information about your problem
 
 ## Acknowledgments
 
